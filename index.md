@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hola
 
-You can use the [editor on GitHub](https://github.com/DavilaRodrigo1/DavilsRodrigo1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Rodrigo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tengo 20 años de edad
 
-### Markdown
+Me gusta la musica rock, metal, y unos que sis otras viantes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Me gustan los perror, gatos, lobos y los zorros
 
-```markdown
-Syntax highlighted code block
+Mis colores faviritos  son el rojo, morado, negro y vino 
 
-# Header 1
-## Header 2
-### Header 3
+Las materias que mas me gustan son la fisica, quimica y las historia
 
-- Bulleted
-- List
+Mis pasatiempos son jugaren la pc, jugar con mis gatos, comer, escuchar musica y comlestar a mi famili
 
-1. Numbered
-2. List
+Me gust a dibujar cuando no tengi nada que hacer, o cuando estoy algo burrido
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavilaRodrigo1/DavilsRodrigo1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Casi no me gustas ucho las matematematicas o con cosas que tengan que ver con ello ya tantas oeraciones que te hacen ahi son muchas y me llega a doler la cabza, otras de las cosa que no me gusta es el calor del sol
