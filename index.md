@@ -1,13 +1,10 @@
 
-<p>
   <a href="/Mis gustos musicales.html">Mis gustos musicales</a>
   <a href="/Mis animeles preferidos.html">Mis gustos preferidos</a>
   <a href="/Mis colores favoritos.html">Mis colores favoritos</a>
   <a href="/Mis materias que gustan.html">Mis materias que gustan</a>
   <a href="/Mis pasatiempos.html">Mis pasatiempos</a>
   <a href="/Mis disgustos.html">Mis disgustos</a>
-<p/>
-<h2 id="Me gusta la musica rock, metal y sus otras viantes">Me gusta la musica rock, metal y sus otras viantes</h2>
 
 ## Hola
 
