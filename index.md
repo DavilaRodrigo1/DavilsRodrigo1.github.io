@@ -1,5 +1,5 @@
 
-[Mis_gustos](./mis_gustos.md)
+[Mis_gustos](./mis_gustos.md) [Mis_animales_preferidos](./mis_animales_preferidos.md) [Mis_colores_favoritos](./mis_colores_favoritos.md)
 
 ## Hola
 
