@@ -1,15 +1,5 @@
 ## Hola
 
-< imput [Mis gustos
-
-Me gusta la musica rock, metal, y unos que sis otras viantes
-
-Me gustan los perror, gatos, lobos y los zorros
-
-Mis colores faviritos  son el rojo, morado, negro y vino 
-
-Las materias que mas me gustan son la fisica, quimica y las historia](./Mis gustos.md)
-
 Mi nombre es Rodrigo
 
 Tengo 20 años de edad
