@@ -1,5 +1,7 @@
 ## Hola
 
+<a href="/Mis gustos.html">Mis gustos</a>
+
 Mi nombre es Rodrigo
 
 Tengo 20 años de edad
