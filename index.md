@@ -1,5 +1,5 @@
 
- [Gustos](./gustos.md)  [Musica](./musica.md)  [Animales](./animales.md)  [Colores](./colores.md)  [Materias](./materias.md)  [Pasatiempos](./pasatiemposs.md)  [Hobbys](./hoppys)  [Disgustos](./disgostos)
+ [Gustos](./gustos.md)  [Musica](./musica.md)  [Animales](./animales.md)  [Colores](./colores.md)  [Materias](./materias.md)  [Pasatiempos](./pasatiemposs.md)  [Hobbys](./hoppys.md)  [Disgustos](./disgostos.md)
 
 ## Hola
 
