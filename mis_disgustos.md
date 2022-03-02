@@ -1,0 +1,1 @@
+Casi no me gustan mucho las matematematicas o cosas que se relacionen con ellas ya que se hacen diversas operaciones en algunos casos, donde aveces me llega a doler mi cabeza, otra de las cosas que no gustan es el calor, el ruido de las construcciones, etc.
