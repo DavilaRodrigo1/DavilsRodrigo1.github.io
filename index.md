@@ -1,10 +1,5 @@
 
-  <a href="/Mis gustos musicales.html">Mis gustos musicales</a>
-  <a href="/Mis animeles preferidos.html">Mis gustos preferidos</a>
-  <a href="/Mis colores favoritos.html">Mis colores favoritos</a>
-  <a href="/Mis materias que gustan.html">Mis materias que gustan</a>
-  <a href="/Mis pasatiempos.html">Mis pasatiempos</a>
-  <a href="/Mis disgustos.html">Mis disgustos</a>
+ [Gustos](./gustos.md) [Musica](./musica.md) [Animales](./animales.md) [Colores](./colores.md) [Materias](./materias.md) [Pasatiempos](./pasatiemposs.md) [Hobbys](./hoppys) [Disgustos](./disgostos)
 
 ## Hola
 
