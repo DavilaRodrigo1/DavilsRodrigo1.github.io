@@ -1,6 +1,6 @@
 ## Hola
 
-[Mis gustos
+< imput [Mis gustos
 
 Me gusta la musica rock, metal, y unos que sis otras viantes
 
