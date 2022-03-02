@@ -1,6 +1,15 @@
-## Hola
 
-<a href="/Mis gustos.html">Mis gustos</a>
+<p>
+  <a href="/Mis gustos musicales.html">Mis gustos musicales</a>
+  <a href="/Mis animeles preferidos.html">Mis gustos preferidos</a>
+  <a href="/Mis colores favoritos.html">Mis colores favoritos</a>
+  <a href="/Mis materias que gustan.html">Mis materias que gustan</a>
+  <a href="/Mis pasatiempos.html">Mis pasatiempos</a>
+  <a href="/Mis disgustos.html">Mis disgustos</a>
+<p/>
+<h2 id="Me gusta la musica rock, metal y sus otras viantes">Me gusta la musica rock, metal y sus otras viantes</h2>
+
+## Hola
 
 Mi nombre es Rodrigo
 
@@ -8,9 +17,9 @@ Tengo 20 años de edad
 
 Mis gustos
 
-Me gusta la musica rock, metal, y unos que sis otras viantes
+Me gusta la musica rock, metal y sus otras viantes
 
-Me gustan los perror, gatos, lobos y los zorros
+Me gustan los perros, gatos, lobos y los zorros
 
 Mis colores faviritos  son el rojo, morado, negro y vino 
 
@@ -18,7 +27,7 @@ Las materias que mas me gustan son la fisica, quimica y las historia
 
 Mis pasatiempos son jugaren la pc, jugar con mis gatos, comer, escuchar musica y comlestar a mi famili
 
-Me gust a dibujar cuando no tengi nada que hacer, o cuando estoy algo burrido
+Me gusta dibujar cuando no tengo nada que hacer o cuando estoy algo burrido
 
-Casi no me gustas ucho las matematematicas o con cosas que tengan que ver con ello ya tantas oeraciones que te hacen ahi son muchas y me llega a doler la cabza, otras de las cosa que no me gusta es el calor del sol
+Casi no me gustan mucho las matematematicas o con cosas que tengan que ver con ello ya que si hacen tantas operaciones que te hacen ahi y me llega a doler la cabza, otras de las cosa que no me gusta es el calor del sol
 
