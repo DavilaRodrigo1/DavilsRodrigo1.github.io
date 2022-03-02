@@ -1,5 +1,5 @@
 
-[Mis gustos](./Mis gustos.md)
+[Mis_gustos](./Mis_[gustos.md)
 
 ## Hola
 
