@@ -25,5 +25,5 @@ Casi no me gustan mucho las matematematicas o cosas que se relacionen con ellas 
 
 | Listado | Ver |
 |-------------|-------------|
-| Comidas | 
+| Comidas | [IR A PAGINA](comidas.md) |
 | Musica | [IR A PAGINA](musica.md) |
