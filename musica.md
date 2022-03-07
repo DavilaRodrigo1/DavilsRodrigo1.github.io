@@ -12,5 +12,5 @@
 
 | Listado | Ver |
 |-------------|-------------|
-| Comidas | 
+| Comidas | [IR A PAGINA](comidas.md) |
 | Musica | [IR A PAGINA](musica.md) |
