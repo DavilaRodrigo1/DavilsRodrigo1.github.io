@@ -1,5 +1,5 @@
 
-[Inicio](Pagina_principal)  [Mis gustos](./mis_gustos.md) [Mis animales preferidos](./mis_animales_preferidos.md) [Mis colores favoritos](./mis_colores_favoritos.md) [Mis materias favoritas](./mis_materias_favoritas.md) [Mis pasatiempos](./mis_pasatiempos.md) [Mis hobies](./mis_hobies.md) [Mis disgustos](./mis_disgustos.md)
+[Inicio](index.md)  [Mis gustos](./mis_gustos.md) [Mis animales preferidos](./mis_animales_preferidos.md) [Mis colores favoritos](./mis_colores_favoritos.md) [Mis materias favoritas](./mis_materias_favoritas.md) [Mis pasatiempos](./mis_pasatiempos.md) [Mis hobies](./mis_hobies.md) [Mis disgustos](./mis_disgustos.md)
 
 ## Hola
 
