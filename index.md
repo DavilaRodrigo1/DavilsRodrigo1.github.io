@@ -23,6 +23,7 @@ Me gusta dibujar cuando no tengo nada que hacer o cuando estoy algo burrido, ver
 
 Casi no me gustan mucho las matematematicas o cosas que se relacionen con ellas ya que se hacen diversas operaciones en algunos casos, donde aveces me llega a doler mi cabeza, otra de las cosas que no gustan es el calor, el ruido de las construcciones, etc.
 
-| Enbabezado1 | Encabezado2 |
+| Listado | Ver |
 |-------------|-------------|
-| Comidas |
+| Comidas | 
+| Musica |
